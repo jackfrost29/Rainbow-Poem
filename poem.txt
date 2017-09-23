@@ -4,6 +4,7 @@ purple
 Green
 Orrange
 Red
+Yellow
 Blue
 Pink
 These are the colors of my Rainbow.
